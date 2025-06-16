@@ -23,7 +23,7 @@ Name     : Shehbaz
 Alias    : Terminal Hacker / Game Killer
 Focus    : Cyber Tools | VPS Automation | Game Network Load Testing
 Special  : Bash Scripting, Termux Tools, Ethical Simulation
-Telegram : @yourhandlehere
+Telegram : @Shehbaz Memon
 Whatsapp : +92-321-2844383
 ```
 
