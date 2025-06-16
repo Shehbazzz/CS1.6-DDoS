@@ -1,6 +1,6 @@
 ---
 <p align="center">
-  <img src="https://your-banner-link.png" alt="Shehbaz Banner" width="100%"/>
+  <img src="https://postimg.cc/njV8kJDh" alt="Shehbaz Banner" width="100%"/>
 </p>
 
 ---
